@@ -70,7 +70,7 @@
 
     <build>
   
-         <finalName>spring-boot-04-web-restfulcrud.jar</finalName>
+         <finalName>spring-boot-04-web-restfulcrud</finalName>
              
         <plugins>
             <plugin>
